@@ -1,36 +1,31 @@
-# rock website
+# Rock Website
 
-This is a website designed about a rock band
+This is a website designed about a rock band.
+
 It has different sections, such as the Main Impact Section
 Upcoming Events Section
 About the Band Section
 Multimedia Section
 
-# Technologies used 
+# Technologies Used
 
-visual studio code 
-HTML5 
+Visual Studio Code
+HTML5
 CSS3
 
+# Project Structure
 
-# project structure
- 
-assets       #img in the project
-index.html   # code in structure web site 
-styles.css   # code in structure styles the web site 
+Resources # Project Images
+index.html # Here is the code for the website structure
+styles.css # Code for the website style structure
 
+# Requirements
 
+Visual Studio Code
+Live Server Extension
 
+# How to Run
+git clone
 
-# requeriments
-
-visual studio code
-extension live server
-
-
-# how to  run 
-git clone 
-
-
-open project in visual studio code:
-run the archive index.html options in live server
+Open the project in Visual Studio Code:
+Run the index.html file on Live Server
